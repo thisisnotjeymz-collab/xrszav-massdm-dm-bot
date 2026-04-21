@@ -48,8 +48,11 @@ Make sure you have `Python 3.8+` and `discord.py` installed.
 
 ```bash
 pip install -U discord.py
-python bot.py
+python3 bot.py
 ```
+
+## 💡 HAVE AN IDEA?
+**Create an issue and suggest it to me!** *I would like to keep this bot updated and up to date*
 
 ## ⚠️ Warnings
 **Abuse of mass DMing can get your bot or server banned**. <ins>**Use responsibly.**<ins>
@@ -59,7 +62,7 @@ python bot.py
 ## 🆘 Support & Contributions
 Need help or have suggestions? You can reach out through these methods:
 
-- **Discord**: You can find me on Discord: `xrszav`
+- **Discord**: You can find me on Discord: `xrszav0`
 - **Telegram**: You can also contact me on Telegram, `@xrszav` [t.me/xrszav](https://t.me/xrszav).
 - **GitHub**: If you have **suggestions or improvements**, feel free to open an issue or submit a pull request.
 
@@ -68,3 +71,5 @@ This project is licensed under the **[MIT License](https://choosealicense.com/li
 
 ## 🔑 Keywords
 - Discord Bot, Mass DM, Direct Messages, Bulk Messaging, Bot Development, Python, Discord.py, Admin Tools
+
+## ONLY FOR EDUCATIONAL PURPOSES 
